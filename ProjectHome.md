@@ -1,0 +1,1 @@
+Tried my best to make OAuth authentication work as simple as possible
